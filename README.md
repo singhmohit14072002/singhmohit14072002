@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singhmohit14072002
-- 👀 I’m interested in coding
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning data structure & algorithmes
-- 💞️ I’m looking to collaborate on who intrseted to contribute opensource
+- 💞️ I’m looking to collaborate on who intrseted to contribute opensource and learn devops
 - 📫 How to reach me just mail me singhmohit14072002@gmail.com
 
 <!---
