@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AWS,Docker,Kubernetes**
 
-- 📫 How to reach me **mohitsirtb@hmail.com**
+- 📫 How to reach me **mohitsirtb@gmail.com**
 
 - ⚡ Fun fact **Love to watch sports and Interact on twitter Spaces**
 
