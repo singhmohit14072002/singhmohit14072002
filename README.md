@@ -1,6 +1,7 @@
+[![MasterHead](https://miro.medium.com/max/828/1*mqv03KrlG5LK2XU1uV4LJg.gif)](https://singhmohit14072002.io)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhmohit14072002&label=Profile%20views&color=0e75b6&style=flat" alt="singhmohit14072002" /> </p>
 
