@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center">A passionat Devops learner from India</h3>
+### Hello World , I'm Vinayak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhmohit14072002&label=Profile%20views&color=0e75b6&style=flat" alt="singhmohit14072002" /> </p>
 
