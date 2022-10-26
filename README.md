@@ -1,6 +1,6 @@
-### Hello World , I'm Vinayak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World , I'm Mohit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <img align="right" alt="GIF" src="e1f3413bf5036045713341394f617225.gif" width="500" height="320" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhmohit14072002&label=Profile%20views&color=0e75b6&style=flat" alt="singhmohit14072002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhmohit14072002" alt="singhmohit14072002" /></a> </p>
 
