@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps Tools and AWS cloud <br>👯 I’m looking to collaborate on  DevOps Tools<br>💬 Ask me about  Automation, Deployment, CI/CD, etc.<br>⚡ Fun fact Stay hungry, stay foolish. – Steve Jobs
+🌱 I’m currently learning DevOps Tools and AWS cloud <br>👯 I’m looking to collaborate on  DevOps Tools<br>💬 Ask me about  Automation, Deployment, CI/CD, etc.<br>⚡ Fun fact  in my free time love to watch cricket and read tech blogs 
 
 
 [![](https://visitcount.itsvg.in/api?id=singhmohit14072002&icon=8&color=1)](https://visitcount.itsvg.in)
