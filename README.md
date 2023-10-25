@@ -1,5 +1,4 @@
 # 💫 About Me:
- 🙋‍♂️Hi, I am Mohit Singh, passionate about DevOps, and eager to learn and grow in this field. I have a strong academic background in computer science. I have also gained practical experience in DevOps through personal projects, training, and internships.
 🌱 I’m currently learning DevOps Tools and AWS cloud <br>👯 I’m looking to collaborate on  DevOps Tools<br>💬 Ask me about  Automation, Deployment, CI/CD, etc.<br>⚡ Fun fact  in my free time love to watch cricket and read tech blogs 
 
 
